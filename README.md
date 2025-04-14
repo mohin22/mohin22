@@ -13,7 +13,7 @@
 - ⚙️ I built a **bare-metal scheduler for ARM Cortex-M3 using QEMU**
 - 🌱 I’m learning **Python, Embedded C, RTOS, and Device Drivers**
 - 💬 Ask me about **Bare-metal programming, ESP32, STM32, QEMU, GDB**
-- 📫 Reach me at: **mohin24khertz@gmail.com**
+- 📫 Reach me at: **nadafmohin23@gmail.com**/**mohin24khertz@gmail.com**
 
 ---
 
@@ -58,5 +58,5 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohin22&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohin22&theme=dracula" />
 </p>
