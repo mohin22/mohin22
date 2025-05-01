@@ -9,11 +9,11 @@
 
 ### 🧠 About Me
 
-- 🔭 Completed Project  **HealthTrack Pro** a.k.a **Patient Health Monitoring using ESP32**
-- ⚙️ I built a **bare-metal scheduler for ARM Cortex-M3 using QEMU**
-- 🌱 I’m learning **Python, Embedded C, RTOS, and Device Drivers**
-- 💬 Ask me about **Bare-metal programming, ESP32, STM32, QEMU, GDB**
-- 📫 Reach me at: **nadafmohin23@gmail.com**/**mohin24khertz@gmail.com**
+- 🔭 Completed Project **[HealthTrack Pro](https://github.com/mohin22/HealthTrack-Pro)** – Patient Health Monitoring using ESP32  
+- ⚙️ Built a **[bare-metal scheduler](https://github.com/mohin22/Scheduler)** for ARM Cortex-M3 using QEMU  
+- 🌱 I’m learning **Python, Embedded C, RTOS, and Device Drivers**  
+- 💬 Ask me about **Bare-metal programming, ESP32, STM32, QEMU, GDB**  
+- 📫 Reach me at: **nadafmohin23 [at] gmail.com** / **mohin24khertz [at] gmail.com**
 
 ---
 
@@ -29,28 +29,21 @@
 
 ---
 
+### 🔧 Embedded Systems Projects
+
+| Project | Description |
+|--------|-------------|
+| [HealthTrack Pro](https://github.com/mohin22/HealthTrack-Pro) | ESP32-based patient monitoring system using MAX30102, DHT22, AD8232 with ThingSpeak integration. |
+| [Scheduler](https://github.com/mohin22/Scheduler) | Bare-metal task scheduler prototype for ARM Cortex-M3 using QEMU simulation and GDB. |
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohin22&show_icons=true&theme=radical" alt="mohin22" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohin22&layout=compact&theme=tokyonight" alt="mohin22" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohin22&theme=highcontrast" alt="streak"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohin22&theme=matrix&row=2&column=4" />
 </p>
 
 ---
