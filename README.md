@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **Patient Health Monitoring using ESP32**
+- 🔭 Completed Project  **HealthTrack Pro** a.k.a **Patient Health Monitoring using ESP32**
 - ⚙️ I built a **bare-metal scheduler for ARM Cortex-M3 using QEMU**
 - 🌱 I’m learning **Python, Embedded C, RTOS, and Device Drivers**
 - 💬 Ask me about **Bare-metal programming, ESP32, STM32, QEMU, GDB**
