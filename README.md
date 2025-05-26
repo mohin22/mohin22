@@ -11,7 +11,7 @@
 
 - 🔭 Recently completed **[HealthTrack Pro](https://github.com/mohin22/HealthTrack-Pro)** – a real-time ESP32-based patient health monitoring system  
 - ⚙️ Developed a **[bare-metal task scheduler](https://github.com/mohin22/Scheduler)** for ARM Cortex-M3 using QEMU and GDB  
-- 🌱 Currently learning **Python, Embedded C, RTOS, and Device Driver Development**  
+- 🌱Programming Skills - **Python, Embedded C, RTOS, and Device Driver Development**  
 - 💬 Ask me about **bare-metal programming, ESP32, STM32, QEMU, GDB**  
 - 📫 Reach me at: [nadafmohin23@gmail.com](mailto:nadafmohin23@gmail.com) / [mohin24khertz@gmail.com](mailto:mohin24khertz@gmail.com)
 
